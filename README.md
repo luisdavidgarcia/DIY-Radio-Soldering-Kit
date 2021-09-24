@@ -6,6 +6,7 @@
 <ul>
   <li>Soldering Iron</li>
   <li>Solder</li>
+  <li>Ability to Read Schematics</li>
 </ul>  
 
 <h2>Motivation for the Project</h2>
