@@ -16,5 +16,5 @@ The most difficult soldering part was soldering the volume adjuster and power su
 
 To see a test of the radio check out my YouTube video here:
 
-[![My Own Radio](https://img.youtube.com/vi/1k571OwCdPE)](https://www.youtube.com/watch?v=1k571OwCdPE)
+[![My Own Radio](https://img.youtube.com/vi/1k571OwCdPE/0.jpg)](https://www.youtube.com/watch?v=1k571OwCdPE)
 
