@@ -14,7 +14,7 @@ Hi there, today my <a href="https://www.amazon.com/MiOYOOW-Soldering-Adjustable-
 
 The most difficult soldering part was soldering the volume adjuster and power supply input since the volume adjuster required making a bridge from the radio PCB to the metal tip of the volume adjuster. The power supply challenged me in soldering its long tips since I needed to get enough solder for a connection, while being cautious to not add more solder than necessary. However in the end, a got functioning FM radio that is a joy to share with family and friends, particularly my grandma who still an avid listener of the radio, and although the speaker is not the largest it gets the job done.
 
-To see a test of the radio check out my YouTube video here:
+To see a test of the radio click on the image to see my YouTube video:
 
 [![My Own Radio](https://img.youtube.com/vi/1k571OwCdPE/0.jpg)](https://www.youtube.com/watch?v=1k571OwCdPE)
 
